@@ -1,0 +1,29 @@
+/*!
+\mainpage Dron etap2
+
+Program jest podsumowaniem zadań realizowanych na kursie Programowanie Obiektowe. \n
+Mikołaj Zapotoczny 252939. \n
+Program został całkowicie przebudowany względem etapu1, gdyż zostało tam popełnionych kilka błędów kardynalnych. \n
+
+\section etykieta-wazne-cechy Najważniejsze cechy
+
+Środowisko pracy drona: Gnuplot. \n
+Dron jest opisany za pomocą prostopadłościanu z dwiema śrubami znajdującymi się z przodu drona. \n
+Powierzchnie Dno i Woda ograniczają środowisko pracy drona. \n
+Dron ma dwie śruby które są obrazowane jako graniastosłupy o podstawie sześciokąta. \n
+W środowisku pracy drona przy starcie programu znajdują się trzy przeszkody: \n
+-prostopadłościan\n
+-płaszczyzna\n
+-pręt\n\n
+
+\section etykieta-możliwości Możliwości programu
+Dron może się obracać w poziomie, \n
+oraz może opadać i wznosić się pod zadanym kątem na zadaną odległość. \n
+Śruby drona obracają się podczas ruchu.\n\n
+Został rozwiązany problem kolizyjności, więc jeżeli wlecimy dronem w przeszkodę (pod kątem prostym),\n
+dno lub wodę, to wyświetli się komunikat o błedzie, a dron zatrzyma się.\n\n
+Ponadto użytkownik może dodawać wybrany rodzaj przeszkody spośród tych trzech wymienionych powyżej, \n
+podając współrzędne położenia środka przeszkody. \n
+Użytkownik może również usuwać przeszkody o zadanym numerze przydzielonym według kolejności na liście, \n
+aby było wiadomo, o którą przeszkodę chodzi, obok numerów wyświetlają się nazwy plików z danymi przeszkodami.\n\n
+*/

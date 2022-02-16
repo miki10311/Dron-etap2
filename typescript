@@ -1,0 +1,104 @@
+Skrypt uruchomiony 2020-06-13 19:57:13+0200
+]0;nnn@nnn-Nitro-AN515-53: ~/Pulpit/Dron_etap2/prj[01;32mnnn@nnn-Nitro-AN515-53[00m:[01;34m~/Pulpit/Dron_etap2/prj[00m$ make
+g++ -c -g -Iinc -Wall -pedantic -std=c++11 -o obj/main.o src/main.cpp
+g++ -c -g -Iinc -Wall -pedantic -std=c++11 -o obj/lacze_do_gnuplota.o src/lacze_do_gnuplota.cpp
+g++ -Wall -pedantic -std=c++11 -o ./rysowanie_3D obj/main.o\
+                        obj/lacze_do_gnuplota.o
+./rysowanie_3D
+Menu:
+r - ruch dronem pod zadanym katem na zadana odleglosc
+o - obrot drona w poziomie
+d - dodaj przeszkode
+u - usun przeszkode
+m - wyswietl menu
+k - koniec
+
+
+Aktualna liczba obiektow: 391
+Ogolna liczba obiektow: 994
+Podaj opcje z menu: 
+qt5ct: using qt5ct plugin
+d
+Wybierz rodzaj przeszkody do dodania: 
+c-aby dodac prostopadloscian
+d-aby dodac pret
+f-aby dodac plaszczyzne
+d
+Wprowadz wspolrzedne polozenia srodka przeszkody: 
+10
+0
+5
+Dodano przeszkode! 
+
+
+Aktualna liczba obiektow: 404
+Ogolna liczba obiektow: 1037
+Podaj opcje z menu: 
+r
+Podaj kat opadania: 0
+Podaj droge: 30
+Kolizja z przeszkoda: Pret!
+Wykonano poprawnie.
+
+
+Aktualna liczba obiektow: 404
+Ogolna liczba obiektow: 3862
+Podaj opcje z menu: 
+u
+Przeszkoda nr 1 ze sciezka dostepu: bryly/prost_zap1.dat
+Przeszkoda nr 2 ze sciezka dostepu: bryly/plasz_zap3.dat
+Przeszkoda nr 3 ze sciezka dostepu: bryly/pret_zap2.dat
+Przeszkoda nr 4 ze sciezka dostepu: bryly/pret_zap4.dat
+Podaj numer przeszkody z listy: 
+4
+Usunieto przeszkode! 
+
+
+Aktualna liczba obiektow: 391
+Ogolna liczba obiektow: 3862
+Podaj opcje z menu: 
+r
+Podaj kat opadania: 60
+Podaj droge: 10
+Wykonano poprawnie.
+
+
+Aktualna liczba obiektow: 391
+Ogolna liczba obiektow: 9512
+Podaj opcje z menu: 
+o
+Podaj kat obrotu: 40
+Wykonano poprawnie.
+
+
+Aktualna liczba obiektow: 391
+Ogolna liczba obiektow: 32112
+Podaj opcje z menu: 
+m
+Menu:
+r - ruch dronem pod zadanym katem na zadana odleglosc
+o - obrot drona w poziomie
+d - dodaj przeszkode
+u - usun przeszkode
+m - wyswietl menu
+k - koniec
+
+
+Aktualna liczba obiektow: 391
+Ogolna liczba obiektow: 32112
+Podaj opcje z menu: 
+r
+Podaj kat opadania: 90
+Podaj droge: 100
+KOLIZJA z dnem!
+Wykonano poprawnie.
+
+
+Aktualna liczba obiektow: 391
+Ogolna liczba obiektow: 44542
+Podaj opcje z menu: 
+k
+]0;nnn@nnn-Nitro-AN515-53: ~/Pulpit/Dron_etap2/prj[01;32mnnn@nnn-Nitro-AN515-53[00m:[01;34m~/Pulpit/Dron_etap2/prj[00m$ exit
+exit
+
+Skrypt wykonany 2020-06-13 20:00:01+0200

@@ -1,0 +1,966 @@
+warning: The selected output language "polish" has not been updated
+since release 1.8.2.  As a result some sentences may appear in English.
+
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Macierz.hh:128: warning: argument 'operator' of command @param is not found in the argument list of operator &Mac)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Macierz.hh:147: warning: argument 'operator' of command @param is not found in the argument list of operator>>(std::istream &Strm, SMacierz &Mac)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:267: warning: argument 'operator' of command @param is not found in the argument list of operator &Wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:240: warning: argument 'operator' of command @param is not found in the argument list of operator>>(std::istream &Strm, SWektor &Wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Bryla.hh:39: warning: argument 'ilosc_wierz' of command @param is not found in the argument list of Bryla::zapis()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Bryla.hh:39: warning: argument 'nazwa_kopii' of command @param is not found in the argument list of Bryla::zapis()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Bryla.hh:39: warning: argument 'punkty' of command @param is not found in the argument list of Bryla::zapis()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Bryla.hh:50: warning: argument 'ilosc_wierz' of command @param is not found in the argument list of Bryla::zapis_oryg()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Bryla.hh:50: warning: argument 'nazwa_oryg' of command @param is not found in the argument list of Bryla::zapis_oryg()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Bryla.hh:50: warning: argument 'punkty' of command @param is not found in the argument list of Bryla::zapis_oryg()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Dno.hh:30: warning: argument 'gestosc_siatki' of command @param is not found in the argument list of Dno::Dno(int rozmiar_dna, int glebokosc_dna, int podzial, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Dno.hh:49: warning: argument 'punkty' of command @param is not found in the argument list of Dno::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Dron.hh:47: warning: argument 'figura' of command @param is not found in the argument list of Dron::Dron()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Dron.hh:47: warning: argument 'sroby' of command @param is not found in the argument list of Dron::Dron()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Graniastoslup.hh:31: warning: argument 'punkty' of command @param is not found in the argument list of Graniastoslup::Graniastoslup(Wektor3D srodek, double przekatna, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Plaszczyzna.hh:41: warning: argument 'gestosc_siatki' of command @param is not found in the argument list of Plaszczyzna::zapis()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Plaszczyzna.hh:41: warning: argument 'nazwa_kopii' of command @param is not found in the argument list of Plaszczyzna::zapis()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Plaszczyzna.hh:41: warning: argument 'punkty' of command @param is not found in the argument list of Plaszczyzna::zapis()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Plaszczyzna.hh:53: warning: argument 'gestosc_siatki' of command @param is not found in the argument list of Plaszczyzna::zapis_oryg()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Plaszczyzna.hh:53: warning: argument 'nazwa_oryg' of command @param is not found in the argument list of Plaszczyzna::zapis_oryg()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Plaszczyzna.hh:53: warning: argument 'punkty' of command @param is not found in the argument list of Plaszczyzna::zapis_oryg()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Prostopadloscian.hh:40: warning: argument 'punkty' of command @param is not found in the argument list of Prostopadloscian::Prostopadloscian(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Prostopadloscian.hh:29: warning: argument 'Translacja' of command @param is not found in the argument list of Prostopadloscian::wez_srodek_kol() const
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:157: warning: argument 'opadanie' of command @param is not found in the argument list of Przestrzen_3D::przesuniecie(double droga)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:157: warning: argument 'obrot' of command @param is not found in the argument list of Przestrzen_3D::przesuniecie(double droga)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:157: warning: argument 'rotacja' of command @param is not found in the argument list of Przestrzen_3D::przesuniecie(double droga)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:157: warning: argument 'kat_obrotu' of command @param is not found in the argument list of Przestrzen_3D::przesuniecie(double droga)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:157: warning: argument 'kat_opadania' of command @param is not found in the argument list of Przestrzen_3D::przesuniecie(double droga)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:157: warning: argument 'kat_rotacji' of command @param is not found in the argument list of Przestrzen_3D::przesuniecie(double droga)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:157: warning: argument 'Translacja' of command @param is not found in the argument list of Przestrzen_3D::przesuniecie(double droga)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:172: warning: argument 'punkty' of command @param is not found in the argument list of Przestrzen_3D::translacja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:172: warning: argument 'Translacja' of command @param is not found in the argument list of Przestrzen_3D::translacja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:172: warning: argument 'srodek' of command @param is not found in the argument list of Przestrzen_3D::translacja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:172: warning: argument 'nazwa_oryg' of command @param is not found in the argument list of Przestrzen_3D::translacja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:172: warning: argument 'obrot' of command @param is not found in the argument list of Przestrzen_3D::translacja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przestrzen_3D.hh:172: warning: argument 'rotacja' of command @param is not found in the argument list of Przestrzen_3D::translacja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda.hh:56: warning: argument 'Translacja' of command @param is not found in the argument list of Przeszkoda::wez_srodek_kol() const
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Plaszczyzna.hh:31: warning: argument 'punkty' of command @param is not found in the argument list of Przeszkoda_Plaszczyzna::Przeszkoda_Plaszczyzna(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Plaszczyzna.hh:31: warning: argument 'sr_prze_x' of command @param is not found in the argument list of Przeszkoda_Plaszczyzna::Przeszkoda_Plaszczyzna(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Plaszczyzna.hh:31: warning: argument 'sr_prze_y' of command @param is not found in the argument list of Przeszkoda_Plaszczyzna::Przeszkoda_Plaszczyzna(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Plaszczyzna.hh:31: warning: argument 'sr_prze_z' of command @param is not found in the argument list of Przeszkoda_Plaszczyzna::Przeszkoda_Plaszczyzna(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Plaszczyzna.hh:91: warning: argument 'punkty' of command @param is not found in the argument list of Przeszkoda_Plaszczyzna::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Plaszczyzna.hh:91: warning: argument 'sr_prze_x' of command @param is not found in the argument list of Przeszkoda_Plaszczyzna::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Plaszczyzna.hh:91: warning: argument 'sr_prze_y' of command @param is not found in the argument list of Przeszkoda_Plaszczyzna::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Plaszczyzna.hh:91: warning: argument 'sr_prze_z' of command @param is not found in the argument list of Przeszkoda_Plaszczyzna::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Pret.hh:32: warning: argument 'punkty' of command @param is not found in the argument list of Przeszkoda_Pret::Przeszkoda_Pret(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Pret.hh:32: warning: argument 'sr_prze_x' of command @param is not found in the argument list of Przeszkoda_Pret::Przeszkoda_Pret(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Pret.hh:32: warning: argument 'sr_prze_y' of command @param is not found in the argument list of Przeszkoda_Pret::Przeszkoda_Pret(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Pret.hh:32: warning: argument 'sr_prze_z' of command @param is not found in the argument list of Przeszkoda_Pret::Przeszkoda_Pret(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Pret.hh:76: warning: argument 'punkty' of command @param is not found in the argument list of Przeszkoda_Pret::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Pret.hh:76: warning: argument 'sr_prze_x' of command @param is not found in the argument list of Przeszkoda_Pret::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Pret.hh:76: warning: argument 'sr_prze_y' of command @param is not found in the argument list of Przeszkoda_Pret::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Pret.hh:76: warning: argument 'sr_prze_z' of command @param is not found in the argument list of Przeszkoda_Pret::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Prostopadloscian.hh:32: warning: argument 'punkty' of command @param is not found in the argument list of Przeszkoda_Prostopadloscian::Przeszkoda_Prostopadloscian(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Prostopadloscian.hh:32: warning: argument 'sr_prze_x' of command @param is not found in the argument list of Przeszkoda_Prostopadloscian::Przeszkoda_Prostopadloscian(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Prostopadloscian.hh:32: warning: argument 'sr_prze_y' of command @param is not found in the argument list of Przeszkoda_Prostopadloscian::Przeszkoda_Prostopadloscian(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Prostopadloscian.hh:32: warning: argument 'sr_prze_z' of command @param is not found in the argument list of Przeszkoda_Prostopadloscian::Przeszkoda_Prostopadloscian(double dlugosc, double szerokosc, double wysokosc, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Prostopadloscian.hh:93: warning: argument 'punkty' of command @param is not found in the argument list of Przeszkoda_Prostopadloscian::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Prostopadloscian.hh:93: warning: argument 'sr_prze_x' of command @param is not found in the argument list of Przeszkoda_Prostopadloscian::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Prostopadloscian.hh:93: warning: argument 'sr_prze_y' of command @param is not found in the argument list of Przeszkoda_Prostopadloscian::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Przeszkoda_Prostopadloscian.hh:93: warning: argument 'sr_prze_z' of command @param is not found in the argument list of Przeszkoda_Prostopadloscian::kolizja(Dron dron)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Scena.hh:116: warning: argument 'przeszkody' of command @param is not found in the argument list of Scena::dodajPrzeszkode()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Scena.hh:104: warning: argument 'przeszkody' of command @param is not found in the argument list of Scena::kolizja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Scena.hh:104: warning: argument 'dron' of command @param is not found in the argument list of Scena::kolizja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Scena.hh:104: warning: argument 'woda' of command @param is not found in the argument list of Scena::kolizja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Scena.hh:104: warning: argument 'dno' of command @param is not found in the argument list of Scena::kolizja()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Scena.hh:125: warning: argument 'przeszkody' of command @param is not found in the argument list of Scena::usunPrzeszkode()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Macierz.hh:84: warning: argument 'tab' of command @param is not found in the argument list of SMacierz::operator*(SWektor wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Macierz.hh:84: warning: argument 'i' of command @param is not found in the argument list of SMacierz::operator*(SWektor wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:65: warning: argument 'aktualna' of command @param is not found in the argument list of SWektor::SWektor()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:65: warning: argument 'wszystkie' of command @param is not found in the argument list of SWektor::SWektor()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:65: warning: argument 'tab' of command @param is not found in the argument list of SWektor::SWektor()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:65: warning: argument 'i' of command @param is not found in the argument list of SWektor::SWektor()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:85: warning: argument 'aktualna' of command @param is not found in the argument list of SWektor::SWektor(const SWektor &wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:85: warning: argument 'wszystkie' of command @param is not found in the argument list of SWektor::SWektor(const SWektor &wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:85: warning: argument 'tab' of command @param is not found in the argument list of SWektor::SWektor(const SWektor &wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:85: warning: argument 'i' of command @param is not found in the argument list of SWektor::SWektor(const SWektor &wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:85: warning: argument 'i' of command @param is not found in the argument list of SWektor::SWektor(const SWektor &wek)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:103: warning: argument 'aktualna' of command @param is not found in the argument list of SWektor::~SWektor()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:200: warning: argument 'tab' of command @param is not found in the argument list of SWektor::operator*(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:200: warning: argument 'i' of command @param is not found in the argument list of SWektor::operator*(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:200: warning: argument 'Skl2' of command @param is not found in the argument list of SWektor::operator*(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:207: warning: The following parameters of SWektor::operator*(SWektor skl2) are not documented:
+  parameter 'skl2'
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:213: warning: argument 'tab' of command @param is not found in the argument list of SWektor::operator*(typ skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:213: warning: argument 'i' of command @param is not found in the argument list of SWektor::operator*(typ skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:213: warning: argument 'Skl2' of command @param is not found in the argument list of SWektor::operator*(typ skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:220: warning: The following parameters of SWektor::operator*(typ skl2) are not documented:
+  parameter 'skl2'
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:157: warning: argument 'tab' of command @param is not found in the argument list of SWektor::operator+(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:157: warning: argument 'i' of command @param is not found in the argument list of SWektor::operator+(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:157: warning: argument 'Skl2' of command @param is not found in the argument list of SWektor::operator+(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:164: warning: The following parameters of SWektor::operator+(SWektor skl2) are not documented:
+  parameter 'skl2'
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:187: warning: argument 'tab' of command @param is not found in the argument list of SWektor::operator-(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:187: warning: argument 'i' of command @param is not found in the argument list of SWektor::operator-(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:187: warning: argument 'Skl2' of command @param is not found in the argument list of SWektor::operator-(SWektor skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:194: warning: The following parameters of SWektor::operator-(SWektor skl2) are not documented:
+  parameter 'skl2'
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:226: warning: argument 'tab' of command @param is not found in the argument list of SWektor::operator/(typ skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:226: warning: argument 'i' of command @param is not found in the argument list of SWektor::operator/(typ skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:226: warning: argument 'Skl2' of command @param is not found in the argument list of SWektor::operator/(typ skl2)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:233: warning: The following parameters of SWektor::operator/(typ skl2) are not documented:
+  parameter 'skl2'
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:170: warning: argument 'tab' of command @param is not found in the argument list of SWektor::operator=(double wartosc)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:170: warning: argument 'i' of command @param is not found in the argument list of SWektor::operator=(double wartosc)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:114: warning: argument 'aktualna' of command @param is not found in the argument list of SWektor::wezaktualna()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Wektor.hh:124: warning: argument 'wszystkie' of command @param is not found in the argument list of SWektor::wezwszystkie()
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Woda.hh:31: warning: argument 'gestosc_siatki' of command @param is not found in the argument list of Woda::Woda(int rozmiar_wody, int wysokosc_wody, int podzial, int wysokosc_fali, string nazwa_oryg, string nazwa_kopii)
+/home/nnn/Pulpit/Dron_etap2/prj/inc/Woda.hh:48: warning: argument 'punkty' of command @param is not found in the argument list of Woda::kolizja(Dron dron)
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_bryla_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_bryla_8hh__incl.png"'
+sh: 1: dot: not found
+sh: 1: error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_bryla_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_bryla_8hh__dep__incl.png"'
+dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_dno_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_dno_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_dno_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_dno_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_dron_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_dron_8hh__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_dron_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_dron_8hh__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_graniastoslup_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_graniastoslup_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_graniastoslup_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_graniastoslup_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8hh__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8hh__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz_8hh__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz_8hh__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a5e90c09682741fcbe0f98ed2f055db1a_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a5e90c09682741fcbe0f98ed2f055db1a_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a5e90c09682741fcbe0f98ed2f055db1a_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a5e90c09682741fcbe0f98ed2f055db1a_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a251e78456c2616c1c8f2ecacf5f7e2c3_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a251e78456c2616c1c8f2ecacf5f7e2c3_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a251e78456c2616c1c8f2ecacf5f7e2c3_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a251e78456c2616c1c8f2ecacf5f7e2c3_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a672cfe8624a3db3d67bfbe29b791fd3c_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a672cfe8624a3db3d67bfbe29b791fd3c_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_prostopadloscian_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_prostopadloscian_8hh__dep__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_plaszczyzna_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_plaszczyzna_8hh__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_plaszczyzna_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_plaszczyzna_8hh__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_prostopadloscian_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_prostopadloscian_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a4ed663bf489980a5b306176bf4a1521a_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a4ed663bf489980a5b306176bf4a1521a_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a672cfe8624a3db3d67bfbe29b791fd3c_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a672cfe8624a3db3d67bfbe29b791fd3c_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przestrzen__3_d_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przestrzen__3_d_8hh__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przestrzen__3_d_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przestrzen__3_d_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda_8hh__dep__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___prostopadloscian_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___prostopadloscian_8hh__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___prostopadloscian_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___prostopadloscian_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___pret_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___pret_8hh__dep__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___plaszczyzna_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___plaszczyzna_8hh__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___plaszczyzna_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___plaszczyzna_8hh__dep__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___pret_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___pret_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_scena_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_scena_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_scena_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_scena_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_wektor_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_wektor_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_wektor_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_wektor_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_wektor3_d_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_wektor3_d_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_woda_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_woda_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8cpp__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8cpp__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_woda_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_woda_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_wymiary_8hh__dep__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_wymiary_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/main_8cpp__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/main_8cpp__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla__inherit__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla_a5acfe76f269fd8e4eac287885938c51b_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla_a5acfe76f269fd8e4eac287885938c51b_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dno__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dno__inherit__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla_abeeb5b17e14c744a93ea595059e04e34_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla_abeeb5b17e14c744a93ea595059e04e34_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dno__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dno__coll__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/_wektor3_d_8hh__incl.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/_wektor3_d_8hh__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dno_aa7edfa12478cd389f918166cbe0e3b79_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dno_aa7edfa12478cd389f918166cbe0e3b79_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron__coll__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_afc2cbe4d362a7a84e65bcb71e2db9664_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_afc2cbe4d362a7a84e65bcb71e2db9664_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_afc2cbe4d362a7a84e65bcb71e2db9664_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_afc2cbe4d362a7a84e65bcb71e2db9664_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dno_aa7edfa12478cd389f918166cbe0e3b79_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dno_aa7edfa12478cd389f918166cbe0e3b79_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_a7c72d29c15b4baa0a012aa8bccacef89_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_a7c72d29c15b4baa0a012aa8bccacef89_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna__inherit__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_ae9b8a464e28bef5d688f49f7d9443fed_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_ae9b8a464e28bef5d688f49f7d9443fed_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna_aea83797d464e0dfe27f6085526b2785a_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna_aea83797d464e0dfe27f6085526b2785a_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna_a16d9d455511e3278fb94178bc4bdb661_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna_a16d9d455511e3278fb94178bc4bdb661_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aa70c55ca279c7353e1e2861f1a224721_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aa70c55ca279c7353e1e2861f1a224721_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_graniastoslup__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_graniastoslup__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian__inherit__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_graniastoslup__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_graniastoslup__inherit__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aaa60df8bc5d8d470221ed659d22abde7_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aaa60df8bc5d8d470221ed659d22abde7_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_afb61c08cec199d90ee04ac6ec4003bbc_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_afb61c08cec199d90ee04ac6ec4003bbc_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aaa60df8bc5d8d470221ed659d22abde7_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aaa60df8bc5d8d470221ed659d22abde7_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_ae2f4aac8ad89c45f6995b2b84f222e82_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_ae2f4aac8ad89c45f6995b2b84f222e82_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_af997291f23ec4e3133757b8ced7bb004_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_af997291f23ec4e3133757b8ced7bb004_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_afb61c08cec199d90ee04ac6ec4003bbc_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_afb61c08cec199d90ee04ac6ec4003bbc_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a1046704be69174ec7090cfbd82a0c6cf_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a1046704be69174ec7090cfbd82a0c6cf_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d__inherit__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a9f9b92d93ea8e302cd65d0a98cd86602_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a9f9b92d93ea8e302cd65d0a98cd86602_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda__inherit__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a466b73a400648da6988924f92b521d98_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a466b73a400648da6988924f92b521d98_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a16c604731c2012e45f3ad253954bfad3_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a16c604731c2012e45f3ad253954bfad3_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna__inherit__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a0d70d56da56cdb01cacc89282ac55820_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a0d70d56da56cdb01cacc89282ac55820_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a133080d49b3243febac92336962464d6_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a133080d49b3243febac92336962464d6_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret_a69bda517b406a56f21ccc1e32011b649_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret_a69bda517b406a56f21ccc1e32011b649_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna_ad80570c58b26bbb50c91285718d26e16_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna_ad80570c58b26bbb50c91285718d26e16_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret_a695d9f07f20bf7a07e3777e82da41310_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret_a695d9f07f20bf7a07e3777e82da41310_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret__inherit__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian__inherit__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna_a007860e7eb173dca6a7b326b3db58b23_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna_a007860e7eb173dca6a7b326b3db58b23_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a8f48fd36f5dd52eea0737701d473e448_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a8f48fd36f5dd52eea0737701d473e448_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a8f48fd36f5dd52eea0737701d473e448_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a8f48fd36f5dd52eea0737701d473e448_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_adb9fc4fd15532e75d0f96bd98fc08e50_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_adb9fc4fd15532e75d0f96bd98fc08e50_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian_a2f15b671647e03a2fe6af7c05d6b334c_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian_a2f15b671647e03a2fe6af7c05d6b334c_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a777d64823a822991cf89f2df429ff618_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a777d64823a822991cf89f2df429ff618_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a777d64823a822991cf89f2df429ff618_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a777d64823a822991cf89f2df429ff618_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a45fbb330dd55543a01732e5b5029734b_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a45fbb330dd55543a01732e5b5029734b_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian_addd5836f779230bbc9be918fd3dec1b7_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian_addd5836f779230bbc9be918fd3dec1b7_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_macierz__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_macierz__inherit__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor__inherit__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor_a427f469b51e9471e825451ba4deff014_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor_a427f469b51e9471e825451ba4deff014_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_af72d18231d64c13b12774dc43aa047dd_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_af72d18231d64c13b12774dc43aa047dd_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_woda__inherit__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_woda__inherit__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_af72d18231d64c13b12774dc43aa047dd_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_af72d18231d64c13b12774dc43aa047dd_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_woda_ae72004b463465e7d478eb9a62abb7c77_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_woda_ae72004b463465e7d478eb9a62abb7c77_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor_a8370c25bea7da7202da905852f1d2c51_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor_a8370c25bea7da7202da905852f1d2c51_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_woda__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_woda__coll__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_woda_ae72004b463465e7d478eb9a62abb7c77_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_woda_ae72004b463465e7d478eb9a62abb7c77_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_aa010184f31b26bb561b42f22438b821e_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_aa010184f31b26bb561b42f22438b821e_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_ae1aad0c681853d7e47da4cdfccefc102_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_ae1aad0c681853d7e47da4cdfccefc102_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a45fbb330dd55543a01732e5b5029734b_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a45fbb330dd55543a01732e5b5029734b_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a85d3a77f67c2724ba3675bc3ef05eb81_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a85d3a77f67c2724ba3675bc3ef05eb81_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a85d3a77f67c2724ba3675bc3ef05eb81_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a85d3a77f67c2724ba3675bc3ef05eb81_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a7227cb39c785b1c746b6bb5515c0b781_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a7227cb39c785b1c746b6bb5515c0b781_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_ae6b9705e199ad695b61b4e902eaf0d6c_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_ae6b9705e199ad695b61b4e902eaf0d6c_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a7227cb39c785b1c746b6bb5515c0b781_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a7227cb39c785b1c746b6bb5515c0b781_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a85f1665049d64618e1ac1d18c000ff76_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a85f1665049d64618e1ac1d18c000ff76_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a9f0f08bb69dca9c12e7f55c165c6223e_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a9f0f08bb69dca9c12e7f55c165c6223e_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a169c311f0e0b6ffadcd44e91e749f72d_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a169c311f0e0b6ffadcd44e91e749f72d_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_af4b140eb03bc10b6fd816fad63f8372e_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_af4b140eb03bc10b6fd816fad63f8372e_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a2ac97706124b14072715ecf3f07e82b4_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a2ac97706124b14072715ecf3f07e82b4_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a169c311f0e0b6ffadcd44e91e749f72d_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a169c311f0e0b6ffadcd44e91e749f72d_cgraph.png"'
+sh: 1: sh: 1: dot: not found
+dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_pliku_do_rysowania_a4245bff195e0d6d382ed7d776b5ad645_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_pliku_do_rysowania_a4245bff195e0d6d382ed7d776b5ad645_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a3927f83244df8a7245e105150a9fb3b2_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a3927f83244df8a7245e105150a9fb3b2_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_pliku_do_rysowania_a714aaa4c8e7bbd167ccbb1e797ca158c_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_pliku_do_rysowania_a714aaa4c8e7bbd167ccbb1e797ca158c_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_punkty_do_rysowania__coll__graph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_punkty_do_rysowania__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_ab068535b4d2f755c394557d1da72a4eb_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_ab068535b4d2f755c394557d1da72a4eb_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aa815ce8ec16e12fc246cf422e562869e_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aa815ce8ec16e12fc246cf422e562869e_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a5d53870de4161dd855b327b3f5d1df9c_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a5d53870de4161dd855b327b3f5d1df9c_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aa815ce8ec16e12fc246cf422e562869e_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aa815ce8ec16e12fc246cf422e562869e_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ad3d7607946b82aa941d786dcd086d27e_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ad3d7607946b82aa941d786dcd086d27e_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aee10e48fe1b9fba6e2897b4ccfa27aef_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aee10e48fe1b9fba6e2897b4ccfa27aef_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_punkty_do_rysowania_a191cbd40cc4a1cffbee988618f3dc258_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_punkty_do_rysowania_a191cbd40cc4a1cffbee988618f3dc258_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ab3286408bb2ca5c5382e721b40d07f4f_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ab3286408bb2ca5c5382e721b40d07f4f_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a065f5b8402737cc62b0ad4f66d028335_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a065f5b8402737cc62b0ad4f66d028335_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a963eeeba41fea78ad1ad107baf8d4b36_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a963eeeba41fea78ad1ad107baf8d4b36_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a200ce6bdb980c314a9eafe49e8f2dd5e_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a200ce6bdb980c314a9eafe49e8f2dd5e_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a1dbbb2b86fb13b8632e6bad9df2a82e3_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a1dbbb2b86fb13b8632e6bad9df2a82e3_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ac48fed259e4ebf93072e3111264c9433_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ac48fed259e4ebf93072e3111264c9433_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a9c91987dfc869d6fcea96205c581daef_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a9c91987dfc869d6fcea96205c581daef_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a54c6e9cf9ab2eae479451fd953c2717c_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a54c6e9cf9ab2eae479451fd953c2717c_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a065f5b8402737cc62b0ad4f66d028335_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a065f5b8402737cc62b0ad4f66d028335_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ae92c65357bf682478cc68f77885b61d8_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ae92c65357bf682478cc68f77885b61d8_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a7fa4e775e1aee74869fae174c567c2a6_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a7fa4e775e1aee74869fae174c567c2a6_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a29f5e5b048a278b4c032b6d9275d0826_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a29f5e5b048a278b4c032b6d9275d0826_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ac9b77a032e256c3143b984509a8b4bb5_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ac9b77a032e256c3143b984509a8b4bb5_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_0.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_0.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_2.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_2.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/graph_legend.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/graph_legend.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a7fa4e775e1aee74869fae174c567c2a6_icgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a7fa4e775e1aee74869fae174c567c2a6_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a263a9dba2ef8030028a48217a183ecdf_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a263a9dba2ef8030028a48217a183ecdf_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_1.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_1.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a80edeb736c353cf64715f16e6a81ee1b_cgraph.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a80edeb736c353cf64715f16e6a81ee1b_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_7.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_7.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_4.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_4.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_5.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_5.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_6.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_6.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_3.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_3.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_12.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_12.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_9.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_9.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_10.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_10.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_11.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_11.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_8.dot" -Tpng -o "/home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_8.png"'
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_bryla_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_bryla_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_dno_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_dno_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_dron_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_dron_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_graniastoslup_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_graniastoslup_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a5e90c09682741fcbe0f98ed2f055db1a_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a5e90c09682741fcbe0f98ed2f055db1a_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a251e78456c2616c1c8f2ecacf5f7e2c3_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a251e78456c2616c1c8f2ecacf5f7e2c3_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a672cfe8624a3db3d67bfbe29b791fd3c_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a672cfe8624a3db3d67bfbe29b791fd3c_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_macierz3x3_8hh_a4ed663bf489980a5b306176bf4a1521a_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_plaszczyzna_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_plaszczyzna_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_prostopadloscian_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_prostopadloscian_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przestrzen__3_d_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przestrzen__3_d_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___plaszczyzna_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___plaszczyzna_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___pret_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___pret_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___prostopadloscian_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_przeszkoda___prostopadloscian_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_scena_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_scena_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_wektor_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_wektor_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_wektor3_d_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_wektor3_d_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_woda_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_woda_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/_wymiary_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/lacze__do__gnuplota_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/main_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla_a5acfe76f269fd8e4eac287885938c51b_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_bryla_abeeb5b17e14c744a93ea595059e04e34_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dno__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dno__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dno_aa7edfa12478cd389f918166cbe0e3b79_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dno_aa7edfa12478cd389f918166cbe0e3b79_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dron__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_ae9b8a464e28bef5d688f49f7d9443fed_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_afc2cbe4d362a7a84e65bcb71e2db9664_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_afc2cbe4d362a7a84e65bcb71e2db9664_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_dron_a7c72d29c15b4baa0a012aa8bccacef89_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_graniastoslup__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_graniastoslup__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna_a16d9d455511e3278fb94178bc4bdb661_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_plaszczyzna_aea83797d464e0dfe27f6085526b2785a_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aa70c55ca279c7353e1e2861f1a224721_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aaa60df8bc5d8d470221ed659d22abde7_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_prostopadloscian_aaa60df8bc5d8d470221ed659d22abde7_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a1046704be69174ec7090cfbd82a0c6cf_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_afb61c08cec199d90ee04ac6ec4003bbc_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_afb61c08cec199d90ee04ac6ec4003bbc_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_ae2f4aac8ad89c45f6995b2b84f222e82_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_af997291f23ec4e3133757b8ced7bb004_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a9f9b92d93ea8e302cd65d0a98cd86602_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przestrzen__3_d_a133080d49b3243febac92336962464d6_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a0d70d56da56cdb01cacc89282ac55820_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a16c604731c2012e45f3ad253954bfad3_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda_a466b73a400648da6988924f92b521d98_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna_ad80570c58b26bbb50c91285718d26e16_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___plaszczyzna_a007860e7eb173dca6a7b326b3db58b23_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret_a69bda517b406a56f21ccc1e32011b649_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___pret_a695d9f07f20bf7a07e3777e82da41310_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian_a2f15b671647e03a2fe6af7c05d6b334c_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_przeszkoda___prostopadloscian_addd5836f779230bbc9be918fd3dec1b7_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_adb9fc4fd15532e75d0f96bd98fc08e50_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a8f48fd36f5dd52eea0737701d473e448_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a8f48fd36f5dd52eea0737701d473e448_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a777d64823a822991cf89f2df429ff618_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a777d64823a822991cf89f2df429ff618_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a45fbb330dd55543a01732e5b5029734b_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_a45fbb330dd55543a01732e5b5029734b_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_af72d18231d64c13b12774dc43aa047dd_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_scena_af72d18231d64c13b12774dc43aa047dd_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_s_macierz__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor_a427f469b51e9471e825451ba4deff014_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_s_wektor_a8370c25bea7da7202da905852f1d2c51_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_woda__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_woda__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_woda_ae72004b463465e7d478eb9a62abb7c77_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_woda_ae72004b463465e7d478eb9a62abb7c77_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_ae1aad0c681853d7e47da4cdfccefc102_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a85d3a77f67c2724ba3675bc3ef05eb81_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a85d3a77f67c2724ba3675bc3ef05eb81_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_aa010184f31b26bb561b42f22438b821e_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a7227cb39c785b1c746b6bb5515c0b781_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a7227cb39c785b1c746b6bb5515c0b781_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_ae6b9705e199ad695b61b4e902eaf0d6c_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a3927f83244df8a7245e105150a9fb3b2_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a169c311f0e0b6ffadcd44e91e749f72d_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/namespace_pz_g_a169c311f0e0b6ffadcd44e91e749f72d_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a9f0f08bb69dca9c12e7f55c165c6223e_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a85f1665049d64618e1ac1d18c000ff76_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_ab068535b4d2f755c394557d1da72a4eb_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_af4b140eb03bc10b6fd816fad63f8372e_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_atrybuty_rysowania_a2ac97706124b14072715ecf3f07e82b4_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_pliku_do_rysowania_a714aaa4c8e7bbd167ccbb1e797ca158c_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_pliku_do_rysowania_a4245bff195e0d6d382ed7d776b5ad645_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_punkty_do_rysowania__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_info_punkty_do_rysowania_a191cbd40cc4a1cffbee988618f3dc258_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aa815ce8ec16e12fc246cf422e562869e_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aa815ce8ec16e12fc246cf422e562869e_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ab3286408bb2ca5c5382e721b40d07f4f_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a5d53870de4161dd855b327b3f5d1df9c_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a963eeeba41fea78ad1ad107baf8d4b36_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ad3d7607946b82aa941d786dcd086d27e_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_aee10e48fe1b9fba6e2897b4ccfa27aef_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a200ce6bdb980c314a9eafe49e8f2dd5e_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a065f5b8402737cc62b0ad4f66d028335_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a065f5b8402737cc62b0ad4f66d028335_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ac48fed259e4ebf93072e3111264c9433_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a9c91987dfc869d6fcea96205c581daef_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a54c6e9cf9ab2eae479451fd953c2717c_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a1dbbb2b86fb13b8632e6bad9df2a82e3_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a7fa4e775e1aee74869fae174c567c2a6_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a7fa4e775e1aee74869fae174c567c2a6_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a29f5e5b048a278b4c032b6d9275d0826_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ac9b77a032e256c3143b984509a8b4bb5_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a263a9dba2ef8030028a48217a183ecdf_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_ae92c65357bf682478cc68f77885b61d8_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/class_pz_g_1_1_lacze_do_g_n_u_plota_a80edeb736c353cf64715f16e6a81ee1b_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_0.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_1.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_2.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_3.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_4.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_5.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_6.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_7.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_8.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_9.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_10.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_11.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/nnn/Pulpit/Dron_etap2/dox/html/inherit_graph_12.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+*** Doxygen has finished
